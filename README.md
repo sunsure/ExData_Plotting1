@@ -112,3 +112,13 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+* <b>Run the script in a command line to complete the assignment:</b> 
+
+$ Rscript all.R
+
+or (only for Linux and MacOS):
+
+$ ./all.R
+
+All plots are stored in ./figure folder.
